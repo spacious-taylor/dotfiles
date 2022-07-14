@@ -1,0 +1,4 @@
+color cursor default black bold
+color title-focus black yellow bold
+set line-graphics = utf-8
+set main-view-date = relative
